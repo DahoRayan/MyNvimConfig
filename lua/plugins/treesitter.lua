@@ -16,7 +16,9 @@ return {
 		 	  "heex",
 			  "javascript",
 			  "html",
-			  "python"
+			  "python",
+			  "dart",
+			  "java"
 		  },
           sync_install = false,
           highlight = { enable = true },
